@@ -1,0 +1,14 @@
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\HungarianAlgorithm.dll
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\bin\Debug\netcoreapp2.1\HungarianAlgorithm.pdb
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Anna\source\repos\ClassLibrary3\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp2.1\HungarianAlgorithm.deps.json
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp2.1\HungarianAlgorithm.dll
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp2.1\HungarianAlgorithm.pdb
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netcoreapp2.1\HungarianAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netcoreapp2.1\HungarianAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netcoreapp2.1\HungarianAlgorithm.AssemblyInfo.cs
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netcoreapp2.1\HungarianAlgorithm.dll
+C:\Users\Anna\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\netcoreapp2.1\HungarianAlgorithm.pdb
