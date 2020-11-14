@@ -24,7 +24,7 @@
 
 ## The Algorithm
 The example below, shows how to use and apply the algorithm.  
-It defines a two-dimensional array, passes it to algorithm, and recieves a result of an array of matched columns for each row (x) passed.
+It defines a two-dimensional array, passes it to algorithm, and recieves a result of an array of matched columns for each row passed.
 ```csharp
 static void Main(string[] args)
         {
